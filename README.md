@@ -1,10 +1,16 @@
-Dot Net Web Server
-==================
-This is a simple web server implemented in .Net/C#. It has plugin/request routing mechanism, so it should be fun to use. Including plugin is an OX game.
+# my_pm25_app
 
-Required software
------------------
-1. .Net Core 3.1 https://www.microsoft.com/net/core
-2. Visual Studio Code https://code.visualstudio.com/ (optional)
+A new Flutter project.
 
-Please make sure you fork the git repo first, don't try to push to my repo!
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

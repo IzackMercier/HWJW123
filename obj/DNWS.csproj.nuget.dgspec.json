@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\WORK STUFF\\College\\Y2 2.2022\\NETWORK PROGRAMMING\\HW1\\Test0\\DNWS.csproj": {}
+  },
+  "projects": {
+    "C:\\WORK STUFF\\College\\Y2 2.2022\\NETWORK PROGRAMMING\\HW1\\Test0\\DNWS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WORK STUFF\\College\\Y2 2.2022\\NETWORK PROGRAMMING\\HW1\\Test0\\DNWS.csproj",
+        "projectName": "DNWS",
+        "projectPath": "C:\\WORK STUFF\\College\\Y2 2.2022\\NETWORK PROGRAMMING\\HW1\\Test0\\DNWS.csproj",
+        "packagesPath": "C:\\Users\\puw20\\.nuget\\packages\\",
+        "outputPath": "C:\\WORK STUFF\\College\\Y2 2.2022\\NETWORK PROGRAMMING\\HW1\\Test0\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\puw20\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
